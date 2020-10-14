@@ -1,0 +1,4 @@
+C:\Users\janfi\Documents\Schule\C#\ConsoleChart\ConsoleChart\obj\Debug\netcoreapp3.1\ConsoleChart.csprojAssemblyReference.cache
+C:\Users\janfi\Documents\Schule\C#\ConsoleChart\ConsoleChart\obj\Debug\netcoreapp3.1\ConsoleChart.AssemblyInfoInputs.cache
+C:\Users\janfi\Documents\Schule\C#\ConsoleChart\ConsoleChart\obj\Debug\netcoreapp3.1\ConsoleChart.AssemblyInfo.cs
+C:\Users\janfi\Documents\Schule\C#\ConsoleChart\ConsoleChart\obj\Debug\netcoreapp3.1\ConsoleChart.csproj.CoreCompileInputs.cache
